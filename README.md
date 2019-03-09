@@ -4,7 +4,7 @@ Denon Heos media player for Home Assistant.
 
 ## Install
 
-    > cp heos.py ~/.homeassistant/custom_components/media_player/
+    > cp heos ~/.homeassistant/custom_components/
 
 ## Configuration
 

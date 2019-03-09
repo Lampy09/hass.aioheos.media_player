@@ -18,7 +18,7 @@ from homeassistant.const import (
     CONF_HOST, CONF_NAME, CONF_USERNAME, CONF_PASSWORD, STATE_PAUSED, STATE_PLAYING, STATE_UNKNOWN, STATE_OFF)
 import homeassistant.helpers.config_validation as cv
 
-REQUIREMENTS = ['https://github.com/Lampy09/aioheos/archive/v0.1.6.zip#aioheos==0.1.6']
+REQUIREMENTS = ['https://github.com/Lampy09/aioheos/archive/v0.1.7.zip#aioheos==0.1.7']
 
 DEFAULT_NAME = 'HEOS Player'
 
